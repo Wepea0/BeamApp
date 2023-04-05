@@ -1,0 +1,53 @@
+PROJECT PLANNER
+REST API
+Serverless
+Cloud Deployments
+Flutter
+
+       -------------------------------- FUNCTIONALITIES (REST API)  ---------------------------------------
+CREATE User account uses 
+- student ID number
+- name
+- email
+- date of birth
+- year group
+- major
+- On-campus OR Off-campus
+- Favourite food
+- Favourite movie
+
+EDIT User 
+- year group
+- major
+- On-campus OR Off-campus
+- Favourite food
+- Favourite movie
+
+VIEW 
+- Find a way to display all this information 
+
+
+     ////////////////////////         OTHER FUNCTIONS             //////////////////////////
+CREATE Post 
+Two boxes 
+- Send post
+- Add email 
+
+VIEW feed
+- Posts appear in order of time posted. (Posts need to have a time attribute)
+- Updates in order of time posted 
+
+
+        
+
+
+
+
+
+
+
+Wow factor ideas:
+- Recommendation friends to follow/ Following system (Could be just one, posts will be highlighted)
+- Simple view user profile 
+- View all the "beams" (Berekuso - SAC) for a particular page (So will be a part of the view profile)
+- Verification badges
